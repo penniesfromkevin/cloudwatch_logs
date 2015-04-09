@@ -1,0 +1,5 @@
+name             'cloudwatch_logs'
+maintainer       'Kevin'
+license          'MIT'
+description      'Installs and configures CloudWatch Logging.'
+version          '0.0.1'
