@@ -1,5 +1,6 @@
 name             'cloudwatch_logs'
 maintainer       'Kevin'
+maintainer_email 'penniesfromkevin@'
 license          'MIT'
 description      'Installs and configures CloudWatch Logging.'
-version          '0.0.2'
+version          '0.0.3'
